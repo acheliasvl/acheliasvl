@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acheliasvl / Student Software Engineer
-- 👀 I’m interested in Aviation Technologies and Cybersecurity
+- 👀 I’m interested in Automation and Aviation Technologies
 - 📫 How to reach me : acelya1sevil@gmail.com
 
 
