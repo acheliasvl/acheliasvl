@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @acheliasvl / Student Software Engineer
-- 👀 I’m interested in Data Analysis and Innovative Technologies
-- 📫 How to reach me : acelya1sevil@gmail.com
+# Hi, I’m Acelya 👋
+
+Software Engineering student interested in   
+**datasets** **java**, **algorithms**, and **ethical AI**.
+
+---
+
+## Focus
+- Backend & system-oriented development  
+- Data structures and problem solving  
+- AI ethics and algorithmic bias  
+
+---
+
+## Tech
+- Java, C++, Python, SQL, HTML 
+- JavaFX, SSMS, Git
+
+---
+
+Always learning, building, and refining.
 
 
 <!---
