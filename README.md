@@ -1,7 +1,7 @@
 # Hi, I’m Acelya 👋
 
 Software Engineering student interested in   
-**datasets** **java**, **algorithms**, and **ethical AI**.
+**datasets**, **java**, **algorithms**, and **ethical AI**.
 
 ---
 
