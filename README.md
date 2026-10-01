@@ -1,27 +1,26 @@
 # Hi, I’m Acelya 👋
 
-Software Engineering student interested in   
-**datasets**, **java**, **algorithms**, and **ethical AI**.
+Software Engineering student interested in the intersection of **Artificial Intelligence, Machine Learning, and software engineering**.
+
+I enjoy turning ideas into software concepts, exploring how systems can be designed to solve real-world problems, and experimenting with ways to make information more accessible through AI. My curiosity extends from working with datasets and understanding data structures to building RAG-based applications and exploring LLM-powered systems.
 
 ---
 
-## Focus
-- Backend & system-oriented development  
-- Data structures and problem solving  
-- AI ethics and algorithmic bias  
+## Areas of Interest
+
+* **AI & Machine Learning:** Exploring intelligent systems and practical applications of machine learning.
+* **RAG & LLMs:** Designing retrieval-based systems that improve how language models access and use information.
+* **Software Design:** Ideating, structuring, and developing software solutions with a focus on functionality and system architecture.
+* **Data & Algorithms:** Working with datasets, exploring data management, and strengthening problem-solving through data structures and algorithms.
 
 ---
 
-## Tech
-- Java, C++, Python, SQL, HTML 
-- JavaFX, SSMS, Git
+## Technologies
+
+**Languages:** Python, C++, SQL
+**AI & Data:** RAG, LLM Integration, Machine Learning, ChromaDB
+**Tools:** Git, Ollama, SSMS
 
 ---
 
-Always learning, building, and refining.
-
-
-<!---
-acheliasvl/acheliasvl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in how ideas evolve into systems, and always looking for opportunities to learn, experiment, and build.
